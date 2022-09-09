@@ -1,0 +1,1 @@
+export const iconPackage = require('./icon_package.png');
